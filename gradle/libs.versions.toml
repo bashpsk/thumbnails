@@ -1,13 +1,13 @@
 [versions]
-agp = "8.10.1"
-kotlin = "2.1.21"
+agp = "8.11.0"
+kotlin = "2.2.0"
 core-ktx = "1.16.0"
 junit = "4.13.2"
 junit-version = "1.2.1"
 espresso-core = "3.6.1"
-lifecycle-runtime = "2.9.0"
+lifecycle-runtime = "2.9.1"
 activity-compose = "1.10.1"
-compose-bom = "2025.05.01"
+compose-bom = "2025.06.01"
 material-icons = "1.7.8"
 
 [libraries]
